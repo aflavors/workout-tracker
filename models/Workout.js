@@ -5,10 +5,12 @@ const Schema = mongoose.Schema;
 const WorkoutSchema = new Schema({
     type: {
         type: String,
-        unique: true
     },
     name: {
         type: String
+    },
+    distance: {
+        type: Number
     },
     duration: {
         type: Number
