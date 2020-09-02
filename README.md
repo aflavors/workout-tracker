@@ -6,7 +6,7 @@
 - [Deployed](#Deployed)
 - [Questions](#Questions)
 
-![](https://i.ibb.co/b2mnWcj/Screen-Shot-2020-09-01-at-9-34-13-PM.png)
+![](https://ibb.co/txK5mVw)
 
 ### Description
 
