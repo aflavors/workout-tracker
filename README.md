@@ -6,7 +6,7 @@
 - [Deployed](#Deployed)
 - [Questions](#Questions)
 
-![](<img src="https://i.ibb.co/b2mnWcj/Screen-Shot-2020-09-01-at-9-34-13-PM.png">)
+![](https://i.ibb.co/b2mnWcj/Screen-Shot-2020-09-01-at-9-34-13-PM.png)
 
 ### Description
 
